@@ -1,0 +1,4 @@
+﻿app/page.tsx(2,25): error TS1261: Already included file name 'C:/Users/SS/Desktop/Automaxions/automaxions_website/app/components/Casestudies.tsx' differs from file name 'C:/Users/SS/Desktop/Automaxions/automaxions_website/app/components/CaseStudies.tsx' only in casing.
+  The file is in the program because:
+    Imported via './components/Casestudies' from file 'C:/Users/SS/Desktop/Automaxions/automaxions_website/app/page.tsx'
+    Matched by include pattern '**/*.tsx' in 'C:/Users/SS/Desktop/Automaxions/automaxions_website/tsconfig.json'
